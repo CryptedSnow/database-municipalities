@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f460"
+  },
+  "estado": "Acre",
+  "sigla": "AC"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f461"
+  },
+  "estado": "Alagoas",
+  "sigla": "AL"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f462"
+  },
+  "estado": "Amapá",
+  "sigla": "AP"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f463"
+  },
+  "estado": "Amazonas",
+  "sigla": "AM"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f464"
+  },
+  "estado": "Bahia",
+  "sigla": "BA"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f465"
+  },
+  "estado": "Ceará",
+  "sigla": "CE"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f466"
+  },
+  "estado": "Distrito Federal",
+  "sigla": "DF"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f467"
+  },
+  "estado": "Espírito Santo",
+  "sigla": "ES"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f468"
+  },
+  "estado": "Goiás",
+  "sigla": "GO"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f469"
+  },
+  "estado": "Maranhão",
+  "sigla": "MA"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f46a"
+  },
+  "estado": "Mato Grosso",
+  "sigla": "MT"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f46b"
+  },
+  "estado": "Mato Grosso do Sul",
+  "sigla": "MS"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f46c"
+  },
+  "estado": "Minas Gerais",
+  "sigla": "MG"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f46d"
+  },
+  "estado": "Pará",
+  "sigla": "PA"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f46e"
+  },
+  "estado": "Paraíba",
+  "sigla": "PB"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f46f"
+  },
+  "estado": "Paraná",
+  "sigla": "PR"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f470"
+  },
+  "estado": "Pernambuco",
+  "sigla": "PE"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f471"
+  },
+  "estado": "Piauí",
+  "sigla": "PI"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f472"
+  },
+  "estado": "Rio de Janeiros",
+  "sigla": "RJ"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f473"
+  },
+  "estado": "Rio Grande do Norte",
+  "sigla": "RN"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f474"
+  },
+  "estado": "Rio Grande do Sul",
+  "sigla": "RS"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f475"
+  },
+  "estado": "Rondônia",
+  "sigla": "RO"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f476"
+  },
+  "estado": "Roraima",
+  "sigla": "RR"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f477"
+  },
+  "estado": "Santa Catarina",
+  "sigla": "SC"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f478"
+  },
+  "estado": "São Paulo",
+  "sigla": "SP"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f479"
+  },
+  "estado": "Sergipe",
+  "sigla": "SE"
+},
+{
+  "_id": {
+    "$oid": "64dd3c3fd926b9caa486f47a"
+  },
+  "estado": "Tocantins",
+  "sigla": "TO"
+}]
