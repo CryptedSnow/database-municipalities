@@ -56,7 +56,7 @@ INSERT INTO `ufs` (`id`, `estado`, `sigla`) VALUES
 (16, 'Paraná', 'PR'),
 (17, 'Pernambuco', 'PE'),
 (18, 'Piauí', 'PI'),
-(19, 'Rio de Janeiros', 'RJ'),
+(19, 'Rio de Janeiro', 'RJ'),
 (20, 'Rio Grande do Norte', 'RN'),
 (21, 'Rio Grande do Sul', 'RS'),
 (22, 'Rondônia', 'RO'),
